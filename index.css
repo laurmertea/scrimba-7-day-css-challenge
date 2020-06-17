@@ -12,3 +12,27 @@ and the section titles a size of 3em,
 and give all the sections an overall margin of 10% of the height of the page. 
 The section titles must have a color of #3278cf, 
 while the main title must have a color of #174885. Good luck! */
+
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    margin: 10vh;
+}
+
+.title,
+.section-title {
+    text-transform: capitalize;
+}
+
+.title {
+    font-size: 4em;
+    color: #174885;
+}
+
+.section-title {
+    font-size: 3em;
+    color: #3278cf;
+}
