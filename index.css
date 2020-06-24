@@ -22,6 +22,30 @@ body {
     margin: 10vh;
 }
 
+.navbar {
+    margin-top: -72px;
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    background: teal;
+    border-bottom: 5px solid orange;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-item {
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu-item:hover {
+    color: orangered;
+}
+
 .title,
 .section-title {
     text-transform: capitalize;
@@ -29,7 +53,7 @@ body {
 
 .title {
     font-size: 4em;
-    color: #174885;
+    color: orange;
 }
 
 .section-title {
