@@ -24,3 +24,13 @@ Your goal is to turn basic HTML into a responsive, functional navbar, which incl
 ##### Hints: Use Flexbox!
 
 ##### Topics Covered: Flexbox, Box Model
+
+---
+
+### Day 3: Blog Page Layout
+
+Your goal is to restructure the given blog page into a blog-style layout, with a main post section, and a sidebar on the right. The blog post section should take up the majority of the width of the page, while the sidebar takes up the rest directly next to the blog post. The footer and header should remain at full width in their respective locations. Good luck!
+
+##### Hints: Use Grid!
+
+##### Topics Covered: CSS Grid
