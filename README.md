@@ -34,3 +34,13 @@ Your goal is to restructure the given blog page into a blog-style layout, with a
 ##### Hints: Use Grid!
 
 ##### Topics Covered: CSS Grid
+
+---
+
+### Day 4: Logo Animation
+
+Your goal is to animate the bars shown on the screen so that they all turn into a single color sequentially. There should be a little bit of time between each bar changing color, so that it gives the appearance of a gradual transition.
+
+##### Hints: Use animations & keyframes! You only need one animation for this!
+
+##### Topics Covered: Animations, Keyframes
