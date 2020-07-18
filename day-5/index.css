@@ -22,3 +22,20 @@ body {
 
 /* Your goal is to use CSS to change the colors of the tiles when they are hovered over. Hovering over a tile will result in its color being changed exclusively. The color to change it to is up to you. The tile should also grow to 1.5 times its original size. Good luck!
  */
+
+.tile {
+    transition: all 0.7s;
+    -webkit-transition: all 0.7s;
+    -moz-transition: all 0.7s;
+    -ms-transition: all 0.7s;
+    -o-transition: all 0.7s;
+}
+
+ .tile:hover {
+    background: red;
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+}
