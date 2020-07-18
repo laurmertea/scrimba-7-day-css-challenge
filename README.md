@@ -44,3 +44,13 @@ If you manage to solve the challenge, feel free to share your solution in the #s
 ##### Hints: Use animations & keyframes! You only need one animation for this!
 
 ##### Topics Covered: Animations, Keyframes
+
+---
+
+### Day 5: Tile-hovering game
+
+"Your goal is to use CSS to change the colors of the tiles when they are hovered over. Hovering over a tile will result in its color being changed exclusively. The color to change it to is up to you. The tile should also grow to 1.5 times its original size. Good luck!"
+
+##### Hints: Use pseudo-classes, transitions & transforms!
+
+##### Topics Covered: Pseudo-classes, Transitions, Transforms
