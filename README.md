@@ -7,7 +7,7 @@ As seen on the Scrimba mini-course.
 
 Every day for the next week, you'll get a CSS challenge right here in your inbox. The challenges have been created by Jad Khalili and will be presented as Scrimba screencasts, meaning you can solve them directly in the browser. The following day, you'll get Jad's suggested solution, along with the next challenge."
 
-### Day 1: Improve this site
+### Day 1: Improve This Site
 
 "In this challenge, you'll get a basic HTML skeleton along with a design you're going implement. It's pretty simple, as we want to start off easy, and then ramp up the level throughout the week.
 
@@ -17,7 +17,7 @@ If you manage to solve the challenge, feel free to share your solution in the #s
 
 ---
 
-### Day 2: Navbar creation
+### Day 2: Navbar Creation
 
 "Your goal is to turn basic HTML into a responsive, functional navbar, which includes both arranging the items and styling them. The navbar must stretch across the whole page & have a background color set. The items must be arranged horizontally & be place below the title, which is centered in the middle of the navbar."
 
@@ -47,7 +47,7 @@ If you manage to solve the challenge, feel free to share your solution in the #s
 
 ---
 
-### Day 5: Tile-hovering game
+### Day 5: Tile-hovering Game
 
 "Your goal is to use CSS to change the colors of the tiles when they are hovered over. Hovering over a tile will result in its color being changed exclusively. The color to change it to is up to you. The tile should also grow to 1.5 times its original size. Good luck!"
 
@@ -57,10 +57,20 @@ If you manage to solve the challenge, feel free to share your solution in the #s
 
 ---
 
-### Day 6: Animated one-page site
+### Day 6: Animated One-page Site
 
 "Your goal is to animate a one-page side, gradually bringing in all the components of the page using animations. At first, the header should slide and fade in from the left, followed by the hero section scaling up, the about us section expanding and fading in from the top, and finally, the footer section expanding and fading in from the left. There should be some delay between the animations, but they should still overlap for the most part. The page elements shouldn't be seen until their animations are played. Good luck!"
 
 ##### Hints: Use animations & think about the animation properties!
 
 ##### Topics Covered: Animations, Keyframes
+
+---
+
+### Day 7: Landing Page Creation
+
+"Your goal is to arrange and animate the given landing page. The contents of the page should be centered both vertically and horizontally. On top of that, when the page loads, a fade-in animation should play that causes the title to fade in, shortly followed by the rest of the page content. Good luck!"
+
+##### Hints: Use animations & Flexbox is the easiest way to center items!
+
+##### Topics Covered: Animations, Keyframes, Flexbox
